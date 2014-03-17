@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/IKAnalyzer2012_u6.jar lib/guava-r09.jar lib/commons-cli-2.0-mahout.jar lib/lucene-core-3.6.0.jar lib/lucene-analyzers-3.6.0.jar lib/weka.jar lib/commons-lang-2.6.jar
+Sealed: true
+
